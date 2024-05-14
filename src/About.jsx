@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <h1>Giới thiệu</h1>
-      <p>Đây là trang giới thiệu về chúng tôi.</p>
+      <p>Web thử nghiệm của bqh</p>
     </div>
   );
 };
